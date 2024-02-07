@@ -1,0 +1,45 @@
+Basic Level (Questions 1-20):
+
+Write a C++ program to find the sum of elements in an integer array.
+Write a function in C++ to reverse a string.
+Implement a C++ program to find the largest element in an array.
+Write a C++ function to check if a given string is a palindrome.
+Create a C++ program to count the occurrences of a character in a string.
+Implement a C++ function to remove duplicates from an array.
+Write a C++ program to merge two sorted arrays into a single sorted array.
+Create a C++ function to find the factorial of a number using recursion.
+Write a program in C++ to check if two strings are anagrams of each other.
+Implement a C++ function to find the second largest element in an array.
+Write a C++ program to count the number of vowels and consonants in a string.
+Create a C++ function to find the intersection of two arrays.
+Write a program in C++ to remove all occurrences of a given character from a string.
+Implement a C++ function to check if an array is sorted in ascending order.
+Write a C++ program to find the frequency of each element in an array.
+Create a C++ function to calculate the power of a number using recursion.
+Write a program in C++ to find the length of the longest palindrome substring in a string.
+Implement a C++ function to find the union of two arrays.
+Write a C++ program to check if a string is a rotation of another string.
+Create a C++ function to find the median of two sorted arrays.
+
+Intermediate Level (Questions 21-40):
+
+Write a C++ program to implement a binary search algorithm for finding an element in a sorted array.
+Implement a C++ function to find all pairs in an array that sum up to a specific target.
+Write a C++ program to find the longest common subsequence between two strings.
+Create a C++ function to rotate an array by a given number of steps.
+Write a program in C++ to implement the Sieve of Eratosthenes algorithm for finding prime numbers up to a given limit.
+Implement a C++ function to perform matrix multiplication.
+Write a program in C++ to implement the Knuth-Morris-Pratt (KMP) algorithm for string searching.
+Create a C++ function to generate all permutations of a given string.
+Write a C++ program to find the maximum sum subarray within a given array.
+Implement a C++ function to convert a decimal number to binary.
+Write a program in C++ to implement the Josephus Problem using recursion.
+Create a C++ function to implement a bubble sort algorithm for sorting an array.
+Write a program in C++ to implement the Tower of Hanoi problem using recursion.
+Implement a C++ function to check if a given number is a palindrome.
+Write a C++ program to implement the Boyer-Moore algorithm for string searching.
+Create a C++ function to generate the Fibonacci sequence up to a given limit.
+Write a program in C++ to find the longest increasing subsequence in an array.
+Implement a C++ function to perform matrix transposition.
+Write a C++ program to implement the Rabin-Karp algorithm for string searching.
+Create a C++ function to find the maximum product subarray within a given array.

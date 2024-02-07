@@ -1,0 +1,35 @@
+MySQL Roadmap
+
+Learn MySQL - Data Lemur
+Questions to solve:
+Applied AI Assignment
+Datalemur
+LeetCode
+
+Machine Learning Live Sessions
+
+38 Videos
+Proper working of the XgBoost Algorithm
+
+C++
+Alex Allain's Book & Videos and topics as below
+OOP concepts
+Memory management
+STL
+Concurrency and Multithreading
+File I/O
+Compiler and Build Systems
+Debugging and Profiling
+50 Programming Questions on C++
+
+Machine Learning Algo Scratch
+
+Linear Regression - GD, SGD, Loss function graph
+Logistic Regression - GD, SGD, Loss function graph
+Linear Reg & Log Reg along with L2, L1 reg and their effect
+Random Forest (Reg & Classify)
+K-means
+Agglomerative Hierarchical Clustering
+Gradient Boosting (Reg & Classify) if feasible
+
+

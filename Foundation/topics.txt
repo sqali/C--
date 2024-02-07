@@ -1,0 +1,20 @@
+1) Basics                        - Done
+2) Variables                     - Done
+3) If statements                 - Done
+4) Loops                         - Done
+5) Functions                     - Done
+6) Switch_Enums                  - Done
+7) Data Types                    - Done
+8) Pointers/References/DMA       - 
+9) Memory Management             - 
+10) Vectors                      - 
+11) Maps/Dictionaries            - 
+12) Sets                         - 
+13) Exception handling           - 
+14) File I/O operations          - 
+15) OOP Concepts                 - 
+16) STL algos                    - 
+17) Lambda expressions           - 
+18) Multithreading & concurrency - 
+19) Preprocessor Directives      - 
+20) APIs, Containerization       - 
